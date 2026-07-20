@@ -1,2 +1,4 @@
 # security_log_analyser_tests
-Playwright test code for llogin
+Command-line tool to detect potential security incidents from webserver logs and authentication logs
+
+
