@@ -39,4 +39,9 @@ Command-line tool to detect potential security incidents from webserver logs and
    ```bash
    npm install
 
+## Steps to run test
+1. Move to project directory
+2. Run command
+   npm run test:analyser_test
+
 
