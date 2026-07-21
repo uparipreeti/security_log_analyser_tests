@@ -9,7 +9,7 @@ AI LLM assistance was used during project set-up, structuring, including reports
 
 *NOTE - language selection to write tests, adding manual tests except edge cases were manually verified and refined.*
 
-** AI usage links: https://gemini.google.com/app/639bffdc5d734e83
+** AI usage links: [https://gemini.google.com/app/639bffdc5d734e83](https://share.gemini.google/7DYX3qnQZd6a)
 ** AI USage texts: "Based on my understanding the incidents in this logs report 4 failed attempts from webserver.log and ssh logs for login and then accepted which are co-related
 2. single attempts logs: 172.16.0.20, 10.0.0.9910.0.0.88, sudo: johndoe :
 3. false positive: 192.168.1.14,  Jul  3 10:00:20 server sudo: deploy :
