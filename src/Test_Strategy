@@ -1,0 +1,14 @@
+###Test Strategy
+***Testing types covered: Integration testing, end-to-end testing***
+#Integration tests: 
+1. Full analysis on provided logs
+2. Co-relations of logs
+3. Error handling when one file succeeds and other fails
+4. multiple files processed togeter
+
+#End to End testing
+1. Test complete user flow with this tool
+2. Run with single file
+3. Run with both sample logs
+4. Run with custom rule file
+5. Run with invalid paths

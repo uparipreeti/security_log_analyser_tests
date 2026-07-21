@@ -1,0 +1,16 @@
+{
+  "name": "security_log_analyser",
+  "version": "1.0.0",
+  "description": "Security log parsing and correlation analysis framework",
+  "main": "src/analyser.js",
+  "scripts": {
+    "test": "mocha --reporter utils/reporter.js 'src/tests/**/*.test.js' --exit",
+    "test:analyser": "mocha --reporter utils/reporter.js 'src/tests/analyser_tests.js' --exit",
+    "test:analyser_tests": "npm run test:analyser"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
