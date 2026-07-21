@@ -39,9 +39,12 @@ Command-line tool to detect potential security incidents from webserver logs and
    ```bash
    npm install
 
-## Steps to run test
+## Steps to run test and check exact errors
 1. Move to project directory
 2. Run command
-   npm run test:analyser_test
+   npm run test:analyser_tests
+3. Run command to check what is the error
+   npx mocha 'src/tests/analyser_tests.js'
+   
 
 
